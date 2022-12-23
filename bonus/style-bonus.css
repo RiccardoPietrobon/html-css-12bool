@@ -1,0 +1,22 @@
+[class*="col-"] {
+    border: 1px solid gray;
+    height: 10px;
+    background-color: lightblue;
+    height: 30px;
+}
+
+.white{
+    background-color: white;
+}
+.black{
+    background-color: black;
+}
+.green-scuro{
+    background-color: #08aa18;
+}
+.green-light{
+    background-color: #12ea28;
+}
+.orange{
+    background-color: orange;
+}
